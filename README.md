@@ -16,7 +16,7 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="esquerda">
 <a href="https://dev.to/vinycxuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/devto.svg" alt="vinycxuz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in /https://www.linkedin.com/in/vinycxuz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinycxuz/" height="30" width="40" /> </a>
+<a href="/https://www.linkedin.com/in/vinycxuz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinycxuz/" height="30" width="40" /> </a>
 <a href="https://stackoverflow.com/users/https://pt.stackoverflow.com/users/295183/vin%c3%adcius-aar%c3%a3o-caldas-da-costa" target=" blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt ="https://pt.stackoverflow.com/users/295183/vin%c3%adcius-aar%c3%a3o-caldas-da-costa" height="30" width="40" /></a>
 <a href="https://instagram.com/aarao_jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="aarao_jr" height="30" width="40" /></a>
 </p>
